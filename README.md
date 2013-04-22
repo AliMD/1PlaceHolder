@@ -7,13 +7,14 @@ Its just an **idea** and need some contributors to be done.
 * Easy to use.
 
 ## Demo
-Its just an idea, Demo in progress.  
+In progress.  
 
 ## How to use
 Insert `<script type="text/javascript" src="1placeholder.js"></script>` befor `</head>`
 
 ## Contributors
 * [Add Your Name `username`](https://github.com/username) Todo description
+
 Please review the [guidelines for contributing](https://github.com/AliMD/1PlaceHolder/CONTRIBUTING.md) to this repository.
 
 ## Technologies
@@ -25,19 +26,17 @@ Please review the [guidelines for contributing](https://github.com/AliMD/1PlaceH
 
 ## Change Log
 <!--[![Build Status](https://secure.travis-ci.org/AliMD/1PlaceHolder.png?branch=master)](https://travis-ci.org/AliMD/1PlaceHolder)-->
-
 #### HEAD (now)
   * Project initialized and need some contributors to be done.
   * [View full changes](https://github.com/AliMD/1PlaceHolder/compare/...master)
 
 ## TODO
-
 * Just do it.
 
 ## License
 (The MIT License)
 
-Copyright (c) 2013 Ali Mihandoost <i@ali.md>  
+Copyright (c) 2013 Ali Mihandoost &lt;i@ali.md&gt;  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
 
