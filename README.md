@@ -2,6 +2,10 @@
 1PlaceHolder is the best solution for HTML5 Cross Browser compatibility placeholder (polyfill)  
 Its just an **idea** and need some contributors to be done. 
 
+## Features
+* Supports IE6+, Firefox 3+, Chrome, Safari
+* Easy to use.
+
 ## Demo
 Its just an idea, Demo in progress.  
 
@@ -25,6 +29,10 @@ Please review the [guidelines for contributing](https://github.com/AliMD/1PlaceH
 #### HEAD (now)
   * Project initialized and need some contributors to be done.
   * [View full changes](https://github.com/AliMD/1PlaceHolder/compare/...master)
+
+## TODO
+
+* Just do it.
 
 ## License
 (The MIT License)
