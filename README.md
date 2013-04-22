@@ -1,13 +1,23 @@
 # 1PlaceHolder - Wonderful-ize Placeholder polyfill
-1PlaceHolder is the best solution for HTML5 Cross Browser compatibility (polyfill)  
+1PlaceHolder is the best solution for HTML5 Cross Browser compatibility placeholder (polyfill)  
 Its just an **idea** and need some contributors to be done. 
 
 ## Demo
 Its just an idea, Demo in progress.  
 
+## How to use
+Insert `<script type="text/javascript" src="1placeholder.js"></script>` befor `</head>`
+
 ## Contributors
 * [Add Your Name `username`](https://github.com/username) Todo description
 Please review the [guidelines for contributing](https://github.com/AliMD/1PlaceHolder/CONTRIBUTING.md) to this repository.
+
+## Technologies
+* [HTML5](http://ali.md/wiki/html5)
+* [CSS3](http://ali.md/css3ref)
+* [JavaScript](http://ali.md/wiki/javascript)
+* [jQuery.js](http://ali.md/jquery.js)
+* [Zepto.js](http://ali.md/zepto.js)
 
 ## Change Log
 <!--[![Build Status](https://secure.travis-ci.org/AliMD/1PlaceHolder.png?branch=master)](https://travis-ci.org/AliMD/1PlaceHolder)-->
