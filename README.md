@@ -28,7 +28,7 @@ Please review the [guidelines for contributing](https://github.com/AliMD/1PlaceH
 <!--[![Build Status](https://secure.travis-ci.org/AliMD/1PlaceHolder.png?branch=master)](https://travis-ci.org/AliMD/1PlaceHolder)-->
 #### HEAD (now)
   * Project initialized and need some contributors to be done.
-  * [View full changes](https://github.com/AliMD/1PlaceHolder/compare/...master)
+  * [View full changes](https://github.com/AliMD/1PlaceHolder/compare/38a6d11f9d...master)
 
 ## TODO
 * Just do it.
